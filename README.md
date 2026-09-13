@@ -1,4 +1,4 @@
-### dotfiles
+### linux_dotfiles
 
 Personal dotfiles and configuration management for my linux machines
 
