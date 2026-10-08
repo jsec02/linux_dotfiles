@@ -1,3 +1,5 @@
 [user]
 	email = justinbraun335@gmail.com
 	name = master
+[core]
+	autocrlf = false
