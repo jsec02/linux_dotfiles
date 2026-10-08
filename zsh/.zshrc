@@ -123,6 +123,9 @@ alias personal='cd $HOME/vault/personal'
 alias professional='cd $HOME/vault/professional'
 alias pentesting='cd $HOME/vault/pentesting'
 
+# Windows/WSL
+alias powershell='cd /mnt/c/Users/master/powershell'
+
 # ===================================== VPN ======================================
 
 # Assumes single .conf in /etc/wireguard/ and uses its name for wg-quick
