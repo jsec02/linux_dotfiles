@@ -158,10 +158,6 @@ if command -v atuin &>/dev/null; then
     zvm_after_init_commands+=('eval "$(atuin init zsh)"')
 fi
 
-# Zsh history options
-setopt HIST_IGNORE_DUPS # Don't record consecutive duplicate commands
-setopt HIST_IGNORE_SPACE # Don't record commands starting with space
-
 # ===================================== GIT ======================================
 
 if [[ $HOST == "wsl" ]]; then
