@@ -153,6 +153,8 @@ fi
 
 # ================================ HISTORY/ATUIN =================================
 
+# https://github.com/atuinsh/atuin/issues/798
+
 # Initialize atuin
 if command -v atuin &>/dev/null; then
     zvm_after_init_commands+=('eval "$(atuin init zsh)"')
