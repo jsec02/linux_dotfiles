@@ -124,6 +124,8 @@ alias professional='cd $HOME/vault/professional'
 alias pentesting='cd $HOME/vault/pentesting'
 
 # Windows/WSL
+alias windowsroot='cd /mnt/c'
+alias windowshome='cd /mnt/c/Users/master'
 alias powershell='cd /mnt/c/Users/master/powershell'
 
 # ===================================== VPN ======================================
