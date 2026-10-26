@@ -324,3 +324,6 @@ Snapin
 inbetween
 workgroup
 bsondump/!
+cmd
+powershell
+bitsadmin
