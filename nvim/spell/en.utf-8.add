@@ -327,3 +327,13 @@ bsondump/!
 cmd
 powershell
 bitsadmin
+schtasks
+tasklist
+sc
+driverquery
+whoami
+wmic
+ipconfig
+netstat
+lftp
+cron
