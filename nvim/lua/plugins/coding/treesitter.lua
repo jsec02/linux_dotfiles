@@ -30,13 +30,14 @@ return {
             "luadoc",
             "markdown",
             "markdown_inline",
+            "php",
+            "php",
+            "powershell",
             "python",
             "query",
             "sql",
             "vim",
             "vimdoc",
-            "php",
-            "powershell",
         }
 
         -- Filetype names that differ from their parser name need to be added explicitly

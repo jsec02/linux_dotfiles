@@ -29,6 +29,7 @@ return {
                 "powershell_es", -- powershell ls (includes formatter and linter)
                 "html", -- html ls
                 "cssls", -- css ls
+                "phpantom_lsp", -- php ls
                 "vtsls", -- ts/js ls
                 "markdown_oxide", --md ls
             },
