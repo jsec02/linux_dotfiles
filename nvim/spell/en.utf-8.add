@@ -337,3 +337,7 @@ ipconfig
 netstat
 lftp
 cron
+icacls
+NTSTATUS
+sslyze
+sslscan
